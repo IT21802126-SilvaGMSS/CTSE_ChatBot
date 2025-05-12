@@ -55,8 +55,8 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-Developed by [Your Name] – University of Sri Lanka Institute of Information Technology (SLIIT) – SE4010 AI/ML Assignment.
+Developed by Silva G M S S – University of Sri Lanka Institute of Information Technology (SLIIT) – SE4010 AI/ML Assignment.
 ```
 
----
+
 
